@@ -1,8 +1,8 @@
 # Traffic-Analysis-Tools
-Better way to analyze traffic
+A better way to analyze traffic
 # Traffic Analysis Tools 🚦🔍
 
-This repository contains a collection of tools to help analyze and visualize network traffic captured in PCAP files. These tools aim to provide an intuitive interface and a range of analysis options for enhanced understanding of network behavior.
+This repository contains a collection of tools to help analyze and visualize network traffic captured in PCAP files. These tools aim to provide an intuitive interface and a range of analysis options, enhancing the understanding of network behavior.
 
 ## Table of Contents 📝
 - [Overview](#overview-)
@@ -11,10 +11,7 @@ This repository contains a collection of tools to help analyze and visualize net
 - [Prerequisites](#prerequisites-🛠️)
 - [Installation](#installation-⚙️)
 - [Usage](#usage-🚀)
-- [Features](#features-✨)
-- [Contributing](#contributing-🤝)
-- [License](#license-📜)
-  
+
 ## Tools 🧰
 
 ### tCpDump.sh 📊
