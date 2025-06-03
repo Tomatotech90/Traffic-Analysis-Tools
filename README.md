@@ -65,7 +65,7 @@ Option 22: Visualize conversation trace (outputs Chart.js config).
 Option 24: Search for suspicious commands like curl or wget.
 Sample Output
 ```
-Copy
+
 $ ./tCpDump.sh
 Please choose an option:
 1. List available pcap files
